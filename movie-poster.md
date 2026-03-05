@@ -29,37 +29,37 @@ At each step, save and commit your work in GitHub Desktop.
 
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
-**Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+**Your Movie Choice: Suits
+- **Movie Title: Suits
+- **Why I chose this movie: I had a really good Idea and this movie fit it well. 
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion: Curiosity
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element: Two pixelized characters 
+- **Why this element: To show the main characters of the show
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid: I do not want a hyperrealistic image.  
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s): blue
+- **Accent color(s): gray
+- **Overall mood: cool (warm/cool/muted/vibrant/dark/bright)  
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
+- [x] Wide shot (landscape/setting)  
 - [ ] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
 - **Focal point description:**  
-
+I want there to be some law hammers in the background like about to hit the characters.
 ---
 
 ## Step 2: AI Generation – First Attempts
